@@ -1,0 +1,15 @@
+{
+    "token": "ODUwMDQ3NzA2NjIxMDE4MTgy.YLkCng.QgtHau7738w_b5IKXJPAUKLhmqo",
+    "prefix": "!",
+    "mainServerId": "491956770223423499",
+    "inboxServerId": "850050610317099109",
+    "logChannelId": "850051992294129735",
+    "inboxPermissions": [
+        "kickMembers",
+        "manageMessages",
+        "uploadFiles"
+    ],
+    "status": "Message me for help!",
+    "responseMessage": "Thank you for your message! Our mod team will reply to you here as soon as possible."
+    
+}
