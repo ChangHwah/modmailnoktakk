@@ -15,6 +15,6 @@
     "allowMove" : "on",
     "mentionUserInThreadHeader" : "on",
     "status": "Message me for help!",
-    "responseMessage": "Thank you for your message! Our mod team will reply to you here as soon as possible."
+    "responseMessage": "**Thanks for your message, someone from the team will reply when they are available. Please keep in mind that this is for URGENT in-game issues. If your issue is not related to something in the game, you will not get a response. Please ask questions in <#491956770223423502> or <#535199472553164811>**"
     
 }
